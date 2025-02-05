@@ -60,6 +60,6 @@ By leveraging these insights, AtliQ Hardware can:
 **📧 Contact**
 If you have any questions or suggestions, feel free to reach out:
 ✉️ Email: mandreganesh67@gmail.com
-🔗 LinkedIn[www.linkedin.com/in/ganesh-mandre]
-📂 GitHub[https://github.com/GaneshMandre]
+🔗 (LinkedIn)[www.linkedin.com/in/ganesh-mandre]
+📂 (GitHub)[https://github.com/GaneshMandre]
 
