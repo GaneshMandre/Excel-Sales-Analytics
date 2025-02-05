@@ -57,7 +57,7 @@ By leveraging these insights, AtliQ Hardware can:
 -📆 fact_sales_monthly
 -🎯 net_sales_target
 
-**📧 Contact**
+# 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
 ✉️ Email: mandreganesh67@gmail.com
 🔗 (LinkedIn)[www.linkedin.com/in/ganesh-mandre]
